@@ -5,6 +5,16 @@
             "httpGameServer": "http://test-gapi.zippyteen.com/entry_game",
             "httpH5Server": "http://test-h5.zippyteen.com/assets"
         },
+        "pro_577games": {
+            "httpServer": "https://api.577games.com/gateway",
+            "httpGameServer": "https://gapi.577games.com/entry_game",
+            "httpH5Server": "https://h5.577games.com/assets"
+        },
+        "pro_wiagame": {
+            "httpServer": "https://api.wiagame.com/gateway",
+            "httpGameServer": "https://gapi.wiagame.com/entry_game",
+            "httpH5Server": "https://h5.wiagame.com/assets"
+        },
         "pro_yonoslots": {
             "httpServer": "https://api.yonoslots.games/gateway",
             "httpGameServer": "https://gapi.tingu.games/entry_game",
