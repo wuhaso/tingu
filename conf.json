@@ -1,0 +1,19 @@
+{
+    "config": {
+         "dev": {
+            "httpServer": "http://test-api.zippyteen.com/gateway",
+            "httpGameServer": "http://test-gapi.zippyteen.com/entry_game",
+            "httpH5Server": "http://test-h5.zippyteen.com/assets"
+        },
+        "pro_yonoslots": {
+            "httpServer": "https://api.yonoslots.games/gateway",
+            "httpGameServer": "https://gapi.tingu.games/entry_game",
+            "httpH5Server": "https://h5.yonoslots.games/assets"
+        },
+        "pro_perfectrummy": {
+            "httpServer": "https://api.perfectrummy.games/gateway",
+            "httpGameServer": "https://gapi.tingu.games/entry_game",
+            "httpH5Server": "https://h5.perfectrummy.games/assets"
+        }
+    }
+}
