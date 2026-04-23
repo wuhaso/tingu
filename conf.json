@@ -5,7 +5,7 @@
             "httpGameServer": "http://tp-api.zippyteen.com/entry_game",
             "httpH5Server": "http://test-h5.zippyteen.com/assets",
             "httpH5LogServer": "http://test-log.zippyteen.com/",
-            "tingUMerchant": "577Slots",
+            "tingUMerchant": "577Slots"
         },
         "pro_577games": {
             "httpServer": "https://api.577games.com/gateway",
