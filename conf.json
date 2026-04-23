@@ -2,7 +2,7 @@
     "config": {
          "dev": {
             "httpServer": "http://test-api.zippyteen.com/gateway",
-            "httpGameServer": "http://test-gapi.zippyteen.com/entry_game",
+            "httpGameServer": "http://tp-api.zippyteen.com/entry_game",
             "httpH5Server": "http://test-h5.zippyteen.com/assets",
              "tingUMerchant": "577Slots"
         },
@@ -20,13 +20,13 @@
         },
         "pro_yonoslots": {
             "httpServer": "https://api.yonoslots.games/gateway",
-            "httpGameServer": "https://gapi.tingu.games/entry_game",
+            "httpGameServer": "https://api-yono.tingu.games/entry_game",
             "httpH5Server": "https://h5.yonoslots.games/assets",
              "tingUMerchant": "YonoSlots"
         },
         "pro_perfectrummy": {
             "httpServer": "https://api.perfectrummy.games/gateway",
-            "httpGameServer": "https://gapi.tingu.games/entry_game",
+            "httpGameServer": "https://api-yono.tingu.games/entry_game",
             "httpH5Server": "https://h5.perfectrummy.games/assets",
              "tingUMerchant": "PerfectRummy"
         }
