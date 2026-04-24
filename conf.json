@@ -11,28 +11,28 @@
             "httpServer": "https://api.577games.com/gateway",
             "httpGameServer": "https://gapi.577games.com/entry_game",
             "httpH5Server": "https://h5.577games.com/assets",
-            "httpH5LogServer": "https://log.577games.com/",
+            "httpH5LogServer": "https://log.tingu.com",
             "tingUMerchant": "577Games"
         },
         "pro_wiagame": {
             "httpServer": "https://api.wiagame.com/gateway",
             "httpGameServer": "https://gapi.wiagame.com/entry_game",
             "httpH5Server": "https://h5.wiagame.com/assets",
-            "httpH5LogServer": "https://log.wiagame.com/",
+            "httpH5LogServer": "https://log.tingu.com",
             "tingUMerchant": "WiaGame"
         },
         "pro_yonoslots": {
             "httpServer": "https://api.yonoslots.games/gateway",
             "httpGameServer": "https://api-yono.tingu.games/entry_game",
             "httpH5Server": "https://h5.yonoslots.games/assets",
-            "httpH5LogServer": "https://log.yonoslots.games/",
+            "httpH5LogServer": "https://log.tingu.games",
             "tingUMerchant": "YonoSlots"
         },
         "pro_perfectrummy": {
             "httpServer": "https://api.perfectrummy.games/gateway",
             "httpGameServer": "https://api-yono.tingu.games/entry_game",
             "httpH5Server": "https://h5.perfectrummy.games/assets",
-            "httpH5LogServer": "https://log.perfectrummy.games/",
+            "httpH5LogServer": "https://log.tingu.games",
             "tingUMerchant": "PerfectRummy"
         }
     }
