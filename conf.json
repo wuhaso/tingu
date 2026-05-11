@@ -2,35 +2,45 @@
     "config": {
          "dev": {
             "httpServer": "http://test-api.zippyteen.com/gateway",
+            "httpServers": ["http://test-api.zippyteen.com/gateway"],
             "httpGameServer": "http://tp-api.zippyteen.com/entry_game",
+            "httpGameServers": ["http://tp-api.zippyteen.com/entry_game"],
             "httpH5Server": "http://test-h5.zippyteen.com/assets",
             "httpH5LogServer": "http://test-log.zippyteen.com/",
             "tingUMerchant": "577Slots"
         },
         "pro_577games": {
             "httpServer": "https://api.577games.com/gateway",
+            "httpServers": ["https://api.577games.com/gateway"],
             "httpGameServer": "https://gapi.577games.com/entry_game",
+            "httpGameServers": ["https://gapi.577games.com/entry_game"],
             "httpH5Server": "https://h5.577games.com/assets",
             "httpH5LogServer": "https://log.tingu.com",
             "tingUMerchant": "577Games"
         },
         "pro_wiagame": {
             "httpServer": "https://api.wiagame.com/gateway",
+            "httpServers": ["https://api.wiagame.com/gateway"],
             "httpGameServer": "https://gapi.wiagame.com/entry_game",
+            "httpGameServers": ["https://gapi.wiagame.com/entry_game"],
             "httpH5Server": "https://h5.wiagame.com/assets",
             "httpH5LogServer": "https://log.tingu.com",
             "tingUMerchant": "WiaGame"
         },
         "pro_yonoslots": {
             "httpServer": "https://api.yonoslots.games/gateway",
+            "httpServers": ["https://api.yonoslots.games/gateway", "https://api2.yonoslots.games/gateway"],
             "httpGameServer": "https://api-yono.tingu.games/entry_game",
+            "httpGameServers": ["https://api-yono.tingu.games/entry_game", "https://api-yono2.tingu.games/entry_game"],
             "httpH5Server": "https://h5.yonoslots.games/assets",
             "httpH5LogServer": "https://log.tingu.games",
             "tingUMerchant": "YonoSlots"
         },
         "pro_perfectrummy": {
             "httpServer": "https://api.perfectrummy.games/gateway",
+            "httpServers": ["https://api.perfectrummy.games/gateway"],
             "httpGameServer": "https://api-yono.tingu.games/entry_game",
+            "httpGameServers": ["https://api-yono.tingu.games/entry_game"],
             "httpH5Server": "https://h5.perfectrummy.games/assets",
             "httpH5LogServer": "https://log.tingu.games",
             "tingUMerchant": "PerfectRummy"
