@@ -44,6 +44,15 @@
             "httpH5Server": "https://h5.perfectrummy.games/assets",
             "httpH5LogServer": "https://log.tingu.games",
             "tingUMerchant": "PerfectRummy"
+        },
+        "pro_threef": {
+            "httpServer": "https://api.yonoslots.games/gateway",
+            "httpServers": ["https://api.yonoslots.games/gateway"],
+            "httpGameServer": "https://api-yono.tingu.games/entry_game",
+            "httpGameServers": ["https://api-yono.tingu.games/entry_game"],
+            "httpH5Server": "https://h5.yonoslots.games/assets",
+            "httpH5LogServer": "https://log.tingu.games",
+            "tingUMerchant": "ThreeF"
         }
     }
 }
