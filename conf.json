@@ -50,7 +50,7 @@
             "httpServers": ["https://api.yonoslots.games/gateway"],
             "httpGameServer": "https://api-yono.tingu.games/entry_game",
             "httpGameServers": ["https://api-yono.tingu.games/entry_game"],
-            "httpH5Server": "https://h5.yonoslots.games/assets",
+            "httpH5Server": "https://h5.3fgame.vip/assets",
             "httpH5LogServer": "https://log.tingu.games",
             "tingUMerchant": "ThreeF"
         }
