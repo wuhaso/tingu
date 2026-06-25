@@ -1,1 +1,22 @@
 
+{
+    "config": {
+         "dev": {
+            "httpServer": "http://usa-api.zippyteen.com/gateway",
+            "httpServers": ["http://usa-api.zippyteen.com/gateway"],
+            "httpGameServer": "http://usa-api.zippyteen.com/entry_game",
+            "httpGameServers": ["http://usa-api.zippyteen.com/entry_game"],
+            "httpH5Server": "http://usa-api.zippyteen.com/assets",
+            "httpH5LogServer": "http://test-log.zippyteen.com/"
+        },
+        },
+        "pro_yonoslots": {
+            "httpServer": "https://api-usa.yonoslots.games/gateway",
+            "httpServers": ["https://api-usa.yonoslots.games/gateway"],
+            "httpGameServer": "https://api-yonousa.tingu.games/entry_game",
+            "httpGameServers": ["https://api-yonousa.tingu.games/entry_game"],
+            "httpH5Server": "https://api-usa.yonoslots.games/assets",
+            "httpH5LogServer": "https://log.tingu.games"
+        }
+    }
+}
