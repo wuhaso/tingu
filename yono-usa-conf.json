@@ -9,7 +9,6 @@
             "httpH5Server": "http://usa-api.zippyteen.com/assets",
             "httpH5LogServer": "http://test-log.zippyteen.com/"
         },
-        },
         "pro_yonoslots": {
             "httpServer": "https://api-usa.yonoslots.games/gateway",
             "httpServers": ["https://api-usa.yonoslots.games/gateway"],
