@@ -12,8 +12,8 @@
         "pro_yonoslots": {
             "httpServer": "https://api-usa.yonoslots.games/gateway",
             "httpServers": ["https://api-usa.yonoslots.games/gateway"],
-            "httpGameServer": "https://api-yonousa.tingu.games/entry_game",
-            "httpGameServers": ["https://api-yonousa.tingu.games/entry_game"],
+            "httpGameServer": "https://api-gusa.yonoslots.games/entry_game",
+            "httpGameServers": ["https://api-gusa.yonoslots.games/entry_game"],
             "httpH5Server": "https://api-usa.yonoslots.games/assets",
             "httpH5LogServer": "https://log.tingu.games"
         }
