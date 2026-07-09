@@ -12,8 +12,8 @@
         "pro_577games": {
             "httpServer": "https://api.577games.com/gateway",
             "httpServers": ["https://api.577games.com/gateway"],
-            "httpGameServer": "https://gapi.577games.com/entry_game",
-            "httpGameServers": ["https://gapi.577games.com/entry_game"],
+            "httpGameServer": "https://api-577.tingu.games/entry_game",
+            "httpGameServers": ["https://api-577.tingu.games/entry_game"],
             "httpH5Server": "https://h5.577games.com/assets",
             "httpH5LogServer": "https://log.tingu.com",
             "tingUMerchant": "577Games"
@@ -21,8 +21,8 @@
         "pro_wiagame": {
             "httpServer": "https://api.wiagame.com/gateway",
             "httpServers": ["https://api.wiagame.com/gateway"],
-            "httpGameServer": "https://gapi.wiagame.com/entry_game",
-            "httpGameServers": ["https://gapi.wiagame.com/entry_game"],
+            "httpGameServer": "https://api-577.tingu.games/entry_game",
+            "httpGameServers": ["https://api-577.tingu.games/entry_game"],
             "httpH5Server": "https://h5.wiagame.com/assets",
             "httpH5LogServer": "https://log.tingu.com",
             "tingUMerchant": "WiaGame"
