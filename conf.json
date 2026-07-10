@@ -15,7 +15,7 @@
             "httpGameServer": "http://api-577.tingu.games/entry_game",
             "httpGameServers": ["http://api-577.tingu.games/entry_game"],
             "httpH5Server": "http://h5.577games.com/assets",
-            "httpH5LogServer": "https://log.tingu.com",
+            "httpH5LogServer": "http://log.tingu.com",
             "tingUMerchant": "577Games"
         },
         "pro_wiagame": {
